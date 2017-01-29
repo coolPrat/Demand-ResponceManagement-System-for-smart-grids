@@ -1,4 +1,4 @@
-To run the Demand-Response management system's simulation please follow following steps OR <h3>*simply watch the video*<h3> :
+To run the Demand-Response management system's simulation please follow following steps OR <b>*simply watch the video*</b> :
 
 1.  Take usage data for each station in a text file. This is supposed to be weeks usage data. The name of the text file should be <Name of the station>.txt
 	  e.g. STN_101.txt
